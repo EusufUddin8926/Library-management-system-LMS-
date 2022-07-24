@@ -1,0 +1,25 @@
+#surefire
+#Sun Jul 24 20:36:20 BDT 2022
+testClassesDirectory=F\:\\Java project New\\LibraryManagement\\target\\test-classes
+classPathUrl.4=C\:\\Users\\MD Eusuf Uddin\\.m2\\repository\\unknown\\binary\\jcalendar-1.4\\SNAPSHOT\\jcalendar-1.4-SNAPSHOT.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\MD Eusuf Uddin\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.11.4\\protobuf-java-3.11.4.jar
+classPathUrl.2=C\:\\Users\\MD Eusuf Uddin\\.m2\\repository\\mysql\\mysql-connector-java\\8.0.28\\mysql-connector-java-8.0.28.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\Java project New\\LibraryManagement\\target\\classes
+reportsDirectory=F\:\\Java project New\\LibraryManagement\\target\\surefire-reports
+classPathUrl.0=F\:\\Java project New\\LibraryManagement\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\Java project New\\LibraryManagement\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\MD Eusuf Uddin\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\MD Eusuf Uddin\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
